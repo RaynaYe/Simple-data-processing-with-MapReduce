@@ -7,8 +7,8 @@ marks, changing the order of the lines is permissible.
 Task2: Using MAPREDUCE write a program that will filter the upper-case version (from task 1) such that only lines
 that appear exactly once will be in the output. Call this the unique-only version. Your approach should be
 exact (do not use approximate techniques). The output will be used for some of the following tasks. For
-example, for the file:
-bob had a little lamb and a small cat
+example, for the file:  
+bob had a little lamb and a small cat   
 alice had one tiger
 bob had a little lamb and a small cat
 mary had some small dogs and a rabbit
