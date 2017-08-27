@@ -49,8 +49,7 @@ three-word sequence should be first)
 Task 6:
 Using the three-word sequence counts you found in task 4, find the entropy of words for each two-word
 context.
-
-Task 7:  Relational Join using MAPREDUCE
+ Relational Join using MAPREDUCE
 In this task you will perform a join operation in Hadoop. Let us assume that we have the relations student(studentId,
 name) and marks(studentId, courseId, mark). and need to join them on the studentId field. Traditionally, this is an easy task when we deal with relational
 databases and can be performed by using the relational join operator. However, the way this join operation
@@ -64,10 +63,10 @@ mark 1 ADBS 80
 mark 2 EXC 65
 mark 1 TTS 80
 
-Task 8: Use the uniLarge.txt file perform a join operation on the studentId key and produce an output that will
+Task 7: Use the uniLarge.txt file perform a join operation on the studentId key and produce an output that will
 have the grades of each student as follows:
 name --> (course1, mark1) (course2, mark2) (course3, mark3) . . .
 
-Task 9:
+Task 8:
 What is the fictional name of the student (or students in case of equality) with the highest average when
 the number of lessons examined is greater than three? 
